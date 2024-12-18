@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: calculatorsimulator
+Version: 1.0.0
+Summary: Package pour calculer et visualiser les émissions CO2
+Home-page: https://github.com/Camel-glitch/carbsimulator
+Author: Achouri Mohamed
+Author-email: Mohamed.Achouri@etu.sorbonne-universite.fr
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8.8
+Description-Content-Type: text/markdown
