@@ -19,3 +19,4 @@ setup(
     ],
     python_requires='>=3.8.8',         # Version minimale de Python
 )
+#Test pushing
